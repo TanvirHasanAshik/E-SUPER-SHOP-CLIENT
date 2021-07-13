@@ -1,0 +1,32 @@
+.side-bar{
+    min-height: 150vh;
+    background-color: rgb(116, 91, 182);
+    text-align: center;
+    color: rgb(12, 11, 10);
+    padding: 40px;
+    
+}
+.content{
+    padding: 40px;
+    margin-left: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.content h1{
+    border-bottom: 1px solid dimgray;
+    margin-top: 50px;
+}
+.side-bar a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: calc;
+    font-size: 20px;
+}
+.side-bar a:hover{
+    color: wheat;
+}
+.customer-shipment span{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: purple;
+    font-weight: bold;
+        
+}

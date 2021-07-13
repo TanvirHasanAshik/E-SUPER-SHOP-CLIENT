@@ -1,0 +1,28 @@
+.cartProduct{
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+.cart-container img{
+    width: 100%;
+    box-shadow: 2px 2px 5px rgb(150, 147, 147);
+    padding: 10px;
+    border-radius: 5px;
+}
+.product-details Button{
+    margin: 15px;
+}
+.product-details{
+    margin-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: purple;
+    text-align: justify;
+}
+.products{
+    margin: 200px 0px 50px 0px;
+    text-align: center;
+    color: purple;
+}
+.nav-bar{
+    position: fixed;
+}

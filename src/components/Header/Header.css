@@ -1,0 +1,22 @@
+.nav-item a{
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+}
+.nav-item img{
+    width: 50px;
+    border-radius: 50%;
+}
+.nav-item a:hover{
+    color: rgb(223, 205, 205);
+}
+.userName{
+    padding: 10px;
+    color: wheat;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.shop-icon img{
+   width: 60px;
+   border-radius: 50px;
+}

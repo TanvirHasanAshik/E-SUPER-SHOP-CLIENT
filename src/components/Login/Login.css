@@ -1,0 +1,23 @@
+.form-container{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 100px;
+}
+.social-btn Button{
+    margin: 20px;
+    color: black;
+    background-color: white;
+    border-radius: 30px;
+}
+.social-btn Button:hover{
+    background-color: white;
+    color:black;
+}
+.social-btn Button img{
+    width: 50px;
+    height: 40px;
+}
+.social-btn{
+    text-align: center;
+    margin-bottom: 50px;
+    color: dimgray
+}
